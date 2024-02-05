@@ -1,0 +1,12 @@
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
