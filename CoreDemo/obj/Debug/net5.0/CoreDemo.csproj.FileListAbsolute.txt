@@ -166,3 +166,10 @@ C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\R
 C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentList\Default.cshtml.g.cs
 C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
 C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Components\WriterLastBlog\Default.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\NewsLatter\SubscribeMail.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\ErrorPage\Error1.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\About\SocialMediaAbout.cshtml.g.cs
+C:\Users\Mustafa\source\repos\CoreProjeKamp\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
