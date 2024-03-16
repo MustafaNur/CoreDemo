@@ -12,6 +12,7 @@
 			<!--left-->
 			<div class="left-blog-info-w3layouts-agileits text-left">
 				<div class="row">
+					
 					@foreach (var item in Model)
 					{
 					<div class="col-lg-4 card mb-5">
@@ -40,7 +41,14 @@
 							<h5 class="card-title">
 									<a href="/Blog/BlogReadAll/@item.BlogID">@item.BlogTitle</a>
 							</h5>
-							<p class="card-text mb-3">@item.BlogContent.Substring(0,item.BlogContent.Substring(0,130).LastIndexOf(" "))...</p>
+							
+								<p class="card-text mb-3">
+									@item.BlogContent.Substring(0, Math.Min(130, item.BlogContent.Length))
+									@if (item.BlogContent.Length > 130)
+									{
+										<span>...</span> 
+									}
+								</p>
 								<a href="/Blog/BlogReadAll/@item.BlogID/" class="btn btn-primary read-m">Devamını Oku</a>
 						</div>
 					</div>
