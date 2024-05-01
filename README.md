@@ -14,7 +14,7 @@ Api
 Sql
 Ajax
 
-Proje için görselleri için [tıklayın]([URL](https://github.com/MustafaNur/CoreDemo/tree/main/Proje%20g%C3%B6rselleri))
+Proje için görselleri için [tıklayın]((https://github.com/MustafaNur/CoreDemo/tree/main/Proje%20g%C3%B6rselleri))
 
 ![][(images/resim_adi.png)](https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_6.png)
 
