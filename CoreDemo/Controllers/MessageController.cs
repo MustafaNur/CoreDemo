@@ -5,11 +5,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CoreDemo.Controllers
 {
+    [AllowAnonymous]
     public class MessageController : Controller
     {
         
         Message2Manager mm = new Message2Manager(new EfMessage2Rpository());
-        [AllowAnonymous]
+        
         public IActionResult InBox()
         {
             int id = 1;

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace BlogApiDemo.DataAccessLayer
 {
@@ -9,5 +10,6 @@ namespace BlogApiDemo.DataAccessLayer
             optionsBuilder.UseSqlServer("server=DESKTOP-ABE0UME;database=CoreBlogApiDb; integrated security=true;");
         }
         public DbSet<Employee> Employees { get; set; }
+        public IEnumerable<object> Users { get; set; }
     }
 }
