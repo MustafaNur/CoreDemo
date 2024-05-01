@@ -13,3 +13,12 @@ Identity
 Api
 Sql
 Ajax
+
+<details>
+  <summary>Proje Görselleri</summary>
+ ![]([images/resim_adi.png](https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_3.png))
+  ![]([images/resim_adi.png](https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_4.png))
+  ![](https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_45.png)
+  ![](https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_6.png)
+  ![](https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_1.png)
+</details>
