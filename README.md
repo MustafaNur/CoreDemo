@@ -8,11 +8,11 @@ Prjenin yapısı 5 ayrı katmandan oluşmaktaddır. Proje temelde 4 katmanla ça
 Sql tarafında bizim oluşturduğumuz tablolar ve identity'nin tabloları yer almakta
 
 ## Kullanılan Teknolojiler
-core 5.0
-Identity
-Api
-Sql
-Ajax
+- core 5.0
+- Identity
+- Api
+- Sql
+- Ajax
 
 Proje için görselleri için [tıklayınız](https://github.com/MustafaNur/CoreDemo/blob/main/Proje%20g%C3%B6rselleri/Screenshot_6.png)
 
