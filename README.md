@@ -1,11 +1,31 @@
 # asp.net core 5.0 Proje kampı | Youtube Murat Yücedağ
 
-Bir blog sitesi yapılmıştır. Ana sayfada blogların yer aldığı " devamını oku" denildiğinde blog detayına giden. Blog yazısının altına yorum yapılabilir. Mail bülteninen abone olma işlemi yapılabiliyor. Hakkımızda kısmına gidildğinde klasik olarak bir hakkımızda kısmı karşılıyor. iletişim kısmında ise form ile bize olaşa biliyorlar ayrıca bit google maps yer almakta.
+Bu projede, ana sayfasında blog gönderilerinin listelendiği ve "Devamını Oku" bağlantısına tıklandığında blog gönderisi detayına yönlendiren bir blog sitesi geliştirildi. Blog gönderilerinin altında yorum yapma imkanı da sunulmaktadır.
 
-Projede kayıt olma ve ek olarak giriş yapma kısmında Identity kullanılmıştır.
+Ayrıca, sitede ziyaretçilerin e-posta bültenine abone olabilmeleri için bir abonelik formu yer almaktadır. "Hakkımızda" sayfasında şirket hakkında genel bilgiler sunulmakta ve "İletişim" sayfasında ise bir iletişim formu ve Google Haritalar üzerinden konum bilgisi yer almaktadır.
 
-Prjenin yapısı 5 ayrı katmandan oluşmaktaddır. Proje temelde 4 katmanla çalışmakta -Sunum katmanı, - Business katmanı,- Data Access katmanı, -Entity katmanı ayrıca katmanlar arasında api katmanıda bulunmaktadır.
-Sql tarafında bizim oluşturduğumuz tablolar ve identity'nin tabloları yer almakta
+## Projenin Teknik Özellikleri:
+
+- Kayıt olma ve giriş yapma işlemleri için Identity kütüphanesi kullanılmıştır.
+- Proje 5 farklı katmandan oluşmaktadır:
+- Sunum Katmanı
+- İş Katmanı
+- Veri Erişim Katmanı
+- Varlık Katmanı
+- API Katmanı (Katmanlar Arası)
+- Veritabanı tarafında ise projede oluşturulan tablolar ve Identity tarafından oluşturulan tablolar kullanılmaktadır.
+
+## Yapılan Geliştirmeler:
+
+- Blog gönderileri listesi ve detay sayfası
+- Yorum yapma sistemi
+- E-posta bültenine abonelik sistemi
+- Hakkımızda sayfası
+- İletişim sayfası ve formu
+- Google Haritalar entegrasyonu
+- Identity ile kayıt ve giriş sistemi
+- 5 katmanlı proje mimarisi
+- Veritabanı tabloları
 
 ## Kullanılan Teknolojiler
 - core 5.0
